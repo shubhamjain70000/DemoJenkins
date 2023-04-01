@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Run Test_3]]>
+    </line>
+    <line>
+      <![CDATA[Run Test_2]]>
+    </line>
+    <line>
+      <![CDATA[Run Test_1]]>
+    </line>
+    <line>
+      <![CDATA[Run Test_4]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-01T09:13:57 IST" name="Suite" finished-at="2023-04-01T09:13:57 IST" duration-ms="248">
+    <groups>
+    </groups>
+    <test started-at="2023-04-01T09:13:57 IST" name="Test" finished-at="2023-04-01T09:13:57 IST" duration-ms="248">
+      <class name="PracticePackage.Demo3">
+        <test-method signature="Test_3()[pri:0, instance:PracticePackage.Demo3@696da30b]" started-at="2023-04-01T09:13:57 IST" name="Test_3" finished-at="2023-04-01T09:13:57 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Run Test_3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_3 -->
+      </class> <!-- PracticePackage.Demo3 -->
+      <class name="PracticePackage.Demo2">
+        <test-method signature="Test_2()[pri:0, instance:PracticePackage.Demo2@49912c99]" started-at="2023-04-01T09:13:57 IST" name="Test_2" finished-at="2023-04-01T09:13:57 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Run Test_2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_2 -->
+      </class> <!-- PracticePackage.Demo2 -->
+      <class name="PracticePackage.Demo4">
+        <test-method signature="Test_4()[pri:0, instance:PracticePackage.Demo4@2dde1bff]" started-at="2023-04-01T09:13:57 IST" name="Test_4" finished-at="2023-04-01T09:13:57 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Run Test_4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_4 -->
+      </class> <!-- PracticePackage.Demo4 -->
+      <class name="PracticePackage.Demo1">
+        <test-method signature="Test_1()[pri:0, instance:PracticePackage.Demo1@10163d6]" started-at="2023-04-01T09:13:57 IST" name="Test_1" finished-at="2023-04-01T09:13:57 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Run Test_1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test_1 -->
+      </class> <!-- PracticePackage.Demo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
